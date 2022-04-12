@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598648528021",
+    "project_id": "loginauthredessociais",
+    "storage_bucket": "loginauthredessociais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598648528021:android:6bbe26b8ab5c1bb89e0f9c",
+        "android_client_info": {
+          "package_name": "com.companyname.loginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598648528021-afsaj2tf4ffbnuf70gfo84vtm8foi6dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.loginauth",
+            "certificate_hash": "70fcba5e500b425aba2bff801913da47a070e51f"
+          }
+        },
+        {
+          "client_id": "598648528021-3ppn7u1cn52gh2go94kkjhjtjev7gbar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi0YZuyDAfaAZO3Pd0dvmuCUP9EOjpdn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598648528021-3ppn7u1cn52gh2go94kkjhjtjev7gbar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\bin\Debug\netstandard2.0\LoginAuth.deps.json
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\bin\Debug\netstandard2.0\LoginAuth.dll
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\bin\Debug\netstandard2.0\LoginAuth.pdb
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\LoginAuth.csproj.AssemblyReference.cache
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\LoginAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\LoginAuth.AssemblyInfoInputs.cache
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\LoginAuth.AssemblyInfo.cs
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\LoginAuth.csproj.CoreCompileInputs.cache
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\LoginAuth.dll
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\refint\LoginAuth.dll
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\LoginAuth.pdb
+C:\Projetos Profissionais\LoginAuth\LoginAuth\LoginAuth\obj\Debug\netstandard2.0\ref\LoginAuth.dll

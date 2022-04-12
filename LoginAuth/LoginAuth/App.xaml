@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginAuth.App">
+    <Application.Resources>
+
+        <Style x:Key="WhiteButton" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="White" />
+            <Setter Property="TextColor" Value="Black" />
+            <Setter Property="HeightRequest" Value="60" />
+            <Setter Property="CornerRadius" Value="20" />
+           
+            <Setter Property="BorderColor" Value="white" />
+            <Setter Property="BorderWidth" Value="2" />
+        </Style>
+
+        <Style x:Key="BlueButton" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="DarkBlue" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="HeightRequest" Value="60" />
+            <Setter Property="CornerRadius" Value="20" />
+
+            <Setter Property="BorderColor" Value="DarkBlue" />
+            <Setter Property="BorderWidth" Value="2" />
+        </Style>
+
+    </Application.Resources>
+</Application>
